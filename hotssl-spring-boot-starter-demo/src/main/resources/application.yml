@@ -1,0 +1,10 @@
+server:
+  ssl:
+    key-password: jzsy123456
+    key-store: classpath:k-server.p12
+    key-store-password: jzsy123456
+    key-store-type: PKCS12
+    client-auth: need
+    trust-store: classpath:t-server.p12
+    trust-store-password: jzsy123456
+    trust-store-type: PKCS12

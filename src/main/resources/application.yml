@@ -1,5 +1,0 @@
-server:
-  ssl:
-    client-auth: need
-    key-store: classpath:keystore.p12
-    key-store-password: jzsy123456
