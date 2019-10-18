@@ -4,6 +4,10 @@
 ## 添加maven依赖
 ```
 <dependency>
+  <groupId>org.springframework.boot</groupId>
+  <artifactId>spring-boot-starter-web</artifactId>
+</dependency>
+<dependency>
   <groupId>cn.mzhong</groupId>
   <artifactId>hotssl-spring-boot-starter</artifactId>
   <version>1.0.0</version>
