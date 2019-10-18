@@ -18,7 +18,6 @@ import javax.servlet.Servlet;
  *
  * @author mzhong
  * @version 1.0
- * @date 2019/10/11 11:05
  */
 @Configuration
 @ConditionalOnClass({Servlet.class, Tomcat.class, UpgradeProtocol.class})

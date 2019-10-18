@@ -8,7 +8,6 @@ import org.apache.coyote.http11.Http11NioProtocol;
  *
  * @author mzhong
  * @version 1.0
- * @date 2019/10/17 17:00
  */
 public class HotSslHttp11NioProtocol extends Http11NioProtocol {
 

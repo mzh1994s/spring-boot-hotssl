@@ -14,7 +14,6 @@ import java.security.cert.X509Certificate;
  *
  * @author mzhong
  * @version 1.0
- * @date 2019/10/17 14:32
  */
 public class HotSslWebServerFactoryCustomizer implements WebServerFactoryCustomizer<TomcatServletWebServerFactory> {
 
